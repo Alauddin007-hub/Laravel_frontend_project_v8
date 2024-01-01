@@ -20,10 +20,19 @@ Route::get('/', function () {
 
 Route::get('/admin', function () {
     return view('backend.dashboard');
-});
+})->middleware('userAuth');
+
 
 Route::get('/login', function () {
     return view('backend.login');
 });
 
 Route::post('/login', [LoginController::class, 'authenticate']);
+Route::get('/logout', [LoginController::class, 'logout']);
+
+Route::get('/teacher', function () {
+    return ('Welcome to Teacher Admin');
+});
+Route::get('/student', function () {
+    return ('Welcome to Student Admin');
+});

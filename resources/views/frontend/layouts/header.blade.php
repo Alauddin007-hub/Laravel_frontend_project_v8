@@ -56,7 +56,7 @@
                                     <li><a href="blog-details.html">Blog Single</a></li>
                                 </ul>
                             </li>
-                            <li class="dashboard"><a href="http://wp.alithemes.com/html/jobbox/demos/dashboard" target="_blank">Dashboard</a></li>
+                            <li class="dashboard"><a href="/login" target="_blank">Dashboard</a></li>
                         </ul>
                     </nav>
                     <div class="burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></div>
@@ -128,7 +128,7 @@
                                         <li><a href="blog-details.html">Blog Single</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="http://wp.alithemes.com/html/jobbox/demos/dashboard" target="_blank">Dashboard</a></li>
+                                <li><a href="/login" target="_blank">Dashboard</a></li>
                             </ul>
                         </nav>
                     </div>
@@ -208,7 +208,7 @@
                                         <li><a href="blog-details.html">Blog Single</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="http://wp.alithemes.com/html/jobbox/demos/dashboard" target="_blank">Dashboard</a></li>
+                                <li><a href="/login" target="_blank">Dashboard</a></li>
                             </ul>
                         </nav>
                     </div>
